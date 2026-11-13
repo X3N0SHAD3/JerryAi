@@ -1,0 +1,6 @@
+if you want to download this repository, please install the following:
+
+    torch
+    transformers
+    peft
+    accelerate
